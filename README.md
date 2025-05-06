@@ -2,7 +2,8 @@
 
 A web-based simulation of an intelligent traffic management system that prioritizes emergency vehicles using graph algorithms. This project demonstrates how graph theory can be applied to optimize traffic flow and reduce response times for ambulances.
 
-![Smart Traffic Light System](https://v0.placeholder.svg?height=400&width=800)
+![Smart Traffic Light System](smart-traffic-light-system-fawn.vercel.app
+)
 
 ## Features
 
